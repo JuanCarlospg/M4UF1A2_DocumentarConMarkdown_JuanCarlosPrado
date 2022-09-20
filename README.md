@@ -55,4 +55,3 @@
 
 
 ![Flujo](https://github.com/JuanCarlospg/M4UF1A2_DocumentarConMarkdown_JuanCarlosPrado/blob/main/Captura.PNG "Flujo de trabajo")
-a.PNG "Flujo de trabajo")
