@@ -2,7 +2,7 @@
 #Evaluación Inicial
 1. ¿Que es una pagina web?
 
-    Una aplicación es un programa informatico diseñado como una herramienta para realizar operaciones o funcionesespecíficas
+    
      
 2. ¿Que es un sitio web?
      
@@ -50,4 +50,4 @@
     elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-[
+[!
