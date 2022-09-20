@@ -30,7 +30,7 @@
 6. ¿Qué es HTML ?
 
     Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
-```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,8 +43,11 @@
     
 </body>
 </html>
-````
 
-5. ¿Que es el HTML?
+7. ¿Qué es CSS ?
 
-    Es un lenguaje de marcas. Es un lenguaje estandart para crear sitios web.
+    CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+    elementos HTML deberían ser mostrados.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
