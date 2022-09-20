@@ -1,5 +1,5 @@
 # M4UF1A2_DocumentarConMarkdown_JuanCarlosPrado
-#Evaluación Inicial
+#*_Evaluación Inicial_*
 1. ¿Que es una pagina web?
 
     Conjunto de información que se encuentra en una determinada dirección de internet.
@@ -27,7 +27,7 @@
 |Google Meet | 💻 |
 | ... | ... |
 
-6. ¿Qué es HTML ?
+6. ¿Qué es HTML?
 
     Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
