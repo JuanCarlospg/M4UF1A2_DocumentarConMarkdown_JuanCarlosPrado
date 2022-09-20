@@ -2,11 +2,11 @@
 #Evaluación Inicial
 1. ¿Que es una pagina web?
 
-    
+    Conjunto de información que se encuentra en una determinada dirección de internet.
      
 2. ¿Que es un sitio web?
      
-     
+     Es un conjunto de archivos electrónicos y páginas web referentes a un tema en particular
   
 3. ¿Que es una aplicacion web?
 
@@ -55,3 +55,4 @@
 
 
 ![Flujo](https://github.com/JuanCarlospg/M4UF1A2_DocumentarConMarkdown_JuanCarlosPrado/blob/main/Captura.PNG "Flujo de trabajo")
+a.PNG "Flujo de trabajo")
