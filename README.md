@@ -16,7 +16,7 @@
 
     Es una aplicación (en local o en linea) que permite editar un texto, una hoja de calculo, una presentación
    
-5. ¿Cuales son las [herramientas de Google]( https://www.google.com/intl/es-419/chrome/browser-tools/) que utlizas habitualmente?
+5. [Herramientas de Google]( https://www.google.com/intl/es-419/chrome/browser-tools/) 
 
 | Aplicaciones | Visto |
 |--------------| ---------------|
