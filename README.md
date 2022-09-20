@@ -50,4 +50,6 @@
     elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+
 ![Flujo](https://github.com/JuanCarlospg/M4UF1A2_DocumentarConMarkdown_JuanCarlosPrado/blob/main/Captura.PNG "Flujo de trabajo")
