@@ -31,7 +31,7 @@
 
     Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,7 +44,7 @@
     
 </body>
 </html>
-
+```
 
 7. ¿Qué es CSS ?
 
